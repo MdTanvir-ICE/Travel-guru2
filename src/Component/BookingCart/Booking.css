@@ -1,0 +1,32 @@
+.BookingCart{
+    border: 2px solid gray;
+    margin-left: 25%;
+    margin-top: 5%;
+    width: 330px;
+    border-radius:10px;
+    background-color: white;
+    
+}
+.BookingCart input[type=text]{
+    width:90%;
+    height: 30px;
+   
+  }
+.BookingCart p{
+    color: gray;
+;
+}
+.BookingBody{
+    margin-left:15px;
+}
+.BookingBtn{
+    width: 90%;
+    height: 40px;
+    background-color: orange;
+    border:1px solid orange;
+    margin: 10px;
+}
+.myDatePicker{
+    width:40%;
+    margin: 5px;
+}

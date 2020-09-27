@@ -1,0 +1,36 @@
+
+  .bannerRight{
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    border: 3px solid green;
+
+  }
+  .bannerLeft{
+    margin-top: 70px;
+    color:white;
+  }
+  /* .item {
+    background-image: url("../Images/Image/Sajek.png");
+    background-size: 100% 400px;
+    
+  } */
+  .item p{
+    color:white;
+    font-size: 45px;
+    margin-top: 250px;
+  }
+  .style{
+    justify-content: center;
+  align-items: center;
+  height: 400px;
+  width: 100%;
+  border-radius:30px;
+  color: gray;
+  margin:0 15px;
+  font-size:4em;
+  border:1px solid gray;
+  }
+  

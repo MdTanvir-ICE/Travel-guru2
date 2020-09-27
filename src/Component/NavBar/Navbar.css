@@ -1,0 +1,12 @@
+.searchControl{
+    width:300px;
+    height:40px;
+    border:1px solid gray;
+    border-radius:5px;
+   
+}
+.linkText{
+    color:white;
+    font-size: 30px;
+    
+}

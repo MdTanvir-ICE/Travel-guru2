@@ -1,0 +1,62 @@
+
+.loginSection{
+    margin-top: 100px;
+    margin-left: 30%;
+    margin-right: 0px;
+  
+  }
+  
+  
+  
+  .login-area
+  {
+    max-width: 40%;
+    min-width: 300px;
+    border:1px solid gray;
+    padding: 30px;
+    
+  }
+  .login-area input[type=text],.login-area input[type=password]{
+    width:90%;
+   margin: 15px 0;
+    border:1px solid white;
+    border-bottom: 1px solid gray;
+  }
+  
+  .bttn{
+    width: 90%;
+    height:50px;
+    background-color: orange;
+    border: 1px solid orange;
+    margin:20px 0;
+  }
+  .bttnGf{
+    width: 90%;
+    min-width: 300px;
+    height:50px;
+    background-color: transparent;
+    border: 1px solid gray;
+    margin:15px 0 5px 0;
+    border-radius: 20px;
+  }
+  .login-area a{
+    color: orange;
+  }
+  
+  .fakeBorder hr {
+    width:50%;
+    border:1px solid gray;
+    margin-left: 0px;
+  }
+  .bottomPart{
+    width:40%;
+    text-align: center;
+  
+  }
+  .bottomPart img{
+    width:45px;
+    height: 45px;
+    border:1px solid white;
+    border-radius: 50% ;
+  }
+  
